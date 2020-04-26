@@ -1,0 +1,5 @@
+
+Upload RNA-seq pipeline for gene expression profiling.
+
+This pipeline has been applied in Linux cluster computing using "qsub" job submission.
+
